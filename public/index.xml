@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wayne Gopher</title>
-    <link>http://example.org/</link>
+    <link>https://waynegopher.github.io/</link>
     <description>Recent content on Wayne Gopher</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language><atom:link href="https://waynegopher.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
